@@ -25,3 +25,4 @@ done
 
 totalSalary=$(($totalEmpHr*$empRatePerHr))
 echo $totalSalary
+echo
